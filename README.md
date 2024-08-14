@@ -2,7 +2,7 @@
 
 Android Compose demonstration app that loads breweries from [OpenBreweryDb](https://openbrewerydb.org/).
 Includes a list with 200 default breweries and a details screen for each of them.
-Uses Clean Architecture with MVVM.
+Uses Clean Architecture,  MVVM and UseCase patterns.
 
 ## Tech Stack
 
